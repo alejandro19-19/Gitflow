@@ -15,7 +15,7 @@ const datastudent = {
         nombre: 'Juan Camilo Santa Gomez',
         semestre: 7,
         soltero: true,
-        gustos: ['jugar videojuegos, escuchar musoc'],
+        gustos: ['jugar videojuegos, escuchar musica'],
     },
 }
 
