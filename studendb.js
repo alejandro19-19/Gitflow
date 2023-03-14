@@ -5,7 +5,7 @@ const datastudent = {
         soltero: true,
         gustos: ['deporte', 'videojuegos', 'musica'],
     },
-    '1941008-3743': '',
+    '1941008-3743': '1',
     '1943214-3743': '',
 }
 
