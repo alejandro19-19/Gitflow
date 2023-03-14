@@ -17,6 +17,12 @@ const datastudent = {
         soltero: true,
         gustos: ['jugar videojuegos, escuchar musica'],
     },
+    '1940322-3743': {
+        nombre: 'Diego Fernando Chaverra Castillo',
+        semestre: 7,
+        soltero: true,
+        gustos: ['dormir'],
+    },
 }
 
 module.exports = datastudent
