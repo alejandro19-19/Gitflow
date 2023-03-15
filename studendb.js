@@ -9,7 +9,7 @@ const datastudent = {
         nombre: 'Alejandro Peñaranda',
         semestre: 7,
         soltero: true,
-        gustos: ['dormir, leer'],
+        gustos: ['dormir, leer, jogare'],
     },
     '1943214-3743': {
         nombre: 'Juan Camilo Santa Gomez',
